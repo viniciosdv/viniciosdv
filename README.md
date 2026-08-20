@@ -79,13 +79,13 @@
 
 <br>
 
-## 🏆 Meus Troféus no GitHub
+🔥 Streak
 
 <div align="center">
-  <!-- Painel Animado de Troféus -->
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciosdv&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="Troféus do GitHub" />
-</div>
 
+<img src="https://streak-stats.demolab.com?user=VINICIOSDV&theme=tokyonight&hide_border=true" />
+
+</div>
 <br>
 
 ## 🐍 Minhas Contribuições em Ação
