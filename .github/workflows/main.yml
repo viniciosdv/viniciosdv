@@ -25,4 +25,14 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+
+  name: Seu Workflow
+
+on: workflow_dispatch
+
+# Adicione este bloco aqui:
+permissions:
+  contents: write
+
+jobs:
+  # ... resto do seu código ...
