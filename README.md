@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**viniciosdv/viniciosdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Vinicios!
 
-Here are some ideas to get you started:
+### 💻 Tecnologia • 🎮 Games • 🐍 Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+> Explorando tecnologia, aprendendo coisas novas e transformando ideias em projetos.
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+* 🎓 Estudante de **Técnico em Informática**
+* 💻 Interessado em **programação e tecnologia**
+* 🐍 Atualmente explorando **Python**
+* 🗄️ Aprendendo sobre **Banco de Dados**
+* 🌐 Curioso sobre **Redes e Sistemas**
+* 🎮 Gosto de jogos e tecnologia
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode,windows,linux" />
+
+</div>
+
+---
+
+## 📚 Atualmente aprendendo
+
+```text
+🐍 Python
+🗄️ SQL & Banco de Dados
+🌐 Redes
+💻 Desenvolvimento
+🐧 Linux
+```
+
+---
+
+## 🚀 Projetos
+
+<div align="center">
+
+### 🔨 Em construção...
+
+> Em breve novos projetos por aqui 👀
+
+</div>
+
+---
+
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VINICIOSDV&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 Code • Play • Repeat
+
+</div>
